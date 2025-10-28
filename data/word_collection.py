@@ -1,0 +1,1 @@
+words_collection = ["hello", "danny", "hi", "smell", "bone"]
